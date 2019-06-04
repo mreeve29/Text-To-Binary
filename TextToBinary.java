@@ -1,4 +1,4 @@
-public class NameToBinary {
+public class TextToBinary {
 	public static void main(String args[]) {
 		final String[] binary = {
 			"01100001 ",
